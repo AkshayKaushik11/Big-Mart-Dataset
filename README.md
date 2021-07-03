@@ -1,5 +1,5 @@
 # Big-Mart-Dataset
-using linear regressor, decision tree, random forest and Xg boost to predict sales and also comparing the performance of models
+using linear regressor, decision tree, random forest  Xg boost and Support Vector Regression to predict sales and also comparing the performance of models
 
 Data Description
 Variable - Description
